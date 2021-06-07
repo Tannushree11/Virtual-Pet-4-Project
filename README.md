@@ -1,2 +1,1 @@
-# Virtual-Pet-4-Project
-Virtual PEt 4 project
+# Virtual-Pet-2.0
